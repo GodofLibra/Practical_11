@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/Practical_11_19012021095/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/Practical_11_19012021095/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/Practical_11_19012021095/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/drawable-v24/button_gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_dash_board.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_notes_list.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_notification.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_signup.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/activity_splash.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/form_view.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/layout/item_box.xml" value="0.33" />
+        <entry key="..\:/Users/Lenovo/Desktop/5th sem/MAD/Practical_11_20012022003/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
